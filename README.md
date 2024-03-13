@@ -29,5 +29,7 @@ Recipes – это мобильное приложение, которое пр�
 [Сопроводительное письмо](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/CoverLetter/Сопроводительное%20письмо.pdf)
 
 [Сопроводительное письмо(копия)](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/CoverLetter(Copy)/Сопроводительное%20письмо(копия).pdf)
+
+[Перечень задач по оформлению ТЗ](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/TaskDesign/TaskDesign.pdf)
 ## Видео
 [Видеопрезентация](https://youtu.be/wggTpxJ_8yk?si=EstMkDCg_LP-TQJ8)
