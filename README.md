@@ -1,13 +1,19 @@
 # Приложение "Recipes"
 ## TP-6.2
 ### Студенты:
-1. [Бредихин Андрей](https://github.com/Andreyvd) - Front-end разработчик, технический писатель
-2. [Кравцова Нина](https://github.com/NinelNina) - Front-end разработчик, дизайнер, Project Manager
-3. [Новичихин Вячеслав](https://github.com/Novia2003) - Back-end разработчик, TeamLead
+1. [Бредихин Андрей](https://github.com/Andreyvd) - Mobile developer, технический писатель
+2. [Кравцова Нина](https://github.com/NinelNina) - Mobile developer, дизайнер, Project Manager
+3. [Новичихин Вячеслав](https://github.com/Novia2003) - Backend developer, TeamLead
 ### Тема:
 Приложение "Рецепты еды" с возможностью просмотра рецептов различных блюд и диет. Источник данных - сторонний API Spoonacular.
 ### Описание проекта
-Loading
+Recipes – это мобильное приложение, которое предлагает пользователям:
+* находить рецепты
+* сохранять понравившиеся в избранное
+* создавать собственные рецепты и публиковать их для других пользователей.
+
+Платформа предлагает удобный поиск по названию, категориям и диетам.
+
 ## Сервисы
 [YouTrack](https://claudemonet.youtrack.cloud/agiles/159-2/current)
 
