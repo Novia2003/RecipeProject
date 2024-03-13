@@ -20,3 +20,7 @@ Recipes – это мобильное приложение, которое пр�
 [Miro](https://miro.com/app/board/uXjVNnK_6zI=/?share_link_id=463183976969)
 
 [Figma](https://www.figma.com/file/UaMh6pD49SvYcP4G83df0Y/My-Recipe-App?type=design&node-id=0-1&mode=design)
+
+## Документация
+## Видео
+[Видеопрезентация](https://youtu.be/wggTpxJ_8yk?si=EstMkDCg_LP-TQJ8)
