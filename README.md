@@ -22,5 +22,6 @@ Recipes – это мобильное приложение, которое пр�
 [Figma](https://www.figma.com/file/UaMh6pD49SvYcP4G83df0Y/My-Recipe-App?type=design&node-id=0-1&mode=design)
 
 ## Документация
+[Презентация ТЗ](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/Presentation/Recipes.pdf)
 ## Видео
 [Видеопрезентация](https://youtu.be/wggTpxJ_8yk?si=EstMkDCg_LP-TQJ8)
