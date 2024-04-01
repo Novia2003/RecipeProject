@@ -1,5 +1,7 @@
 # Приложение "Recipes"
 ## TP-6.2
+### Ссылки на репозитории:
+* [Сервер](https://github.com/Novia2003/RecipesServerApplication)
 ### Студенты:
 1. [Бредихин Андрей](https://github.com/Andreyvd) - Mobile developer, технический писатель
 2. [Кравцова Нина](https://github.com/NinelNina) - Mobile developer, дизайнер, Project Manager
