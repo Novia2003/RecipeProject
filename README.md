@@ -1,6 +1,7 @@
 # Приложение "Recipes"
 ## TP-6.2
 ### Ссылки на репозитории:
+* [Мобильное приложение](https://github.com/NinelNina/recipes_mobile)
 * [Сервер](https://github.com/Novia2003/RecipesServerApplication)
 ### Студенты:
 1. [Бредихин Андрей](https://github.com/Andreyvd) - Mobile developer, технический писатель
