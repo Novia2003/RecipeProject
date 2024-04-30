@@ -40,3 +40,5 @@ Recipes – это мобильное приложение, которое пр�
 [Диаграммы](https://github.com/Novia2003/RecipeProject/tree/main/Documentation/Diagrams)
 ## Видео
 [Видеопрезентация](https://youtu.be/wggTpxJ_8yk?si=EstMkDCg_LP-TQJ8)
+
+[Видеопрезентация приложения на 2-ую рубежную аттестацию](https://youtu.be/8LXkP74jvFY?feature=shared)
