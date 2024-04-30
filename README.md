@@ -27,6 +27,8 @@ Recipes – это мобильное приложение, которое пр�
 ## Документация
 [Курсовой проект](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/CourseProject/Course_project.pdf)
 
+[Презентация приложения на 2-ую аттестацию](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/PresentationSecondAttestation/Recipes.pdf)
+
 [Техническое задание](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/TechnicalSpecification/TZ_Recipes.pdf)
 
 [Презентация ТЗ](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/Presentation/Recipes.pdf)
