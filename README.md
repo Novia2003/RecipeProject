@@ -99,6 +99,6 @@ Recipes – это мобильное приложение, которое пр�
 
 [Видео с обзором серверной части приложения](https://www.youtube.com/watch?v=7O0XK_dpg8U)
 
-[Видео с обзором клиентской части](https://drive.google.com/file/d/1vhkK7mpoAS0gOaqXUEi4Hf0aC0giUcAG/view?usp=sharing)
+[Видео с обзором клиентской части приложения](https://drive.google.com/file/d/1vhkK7mpoAS0gOaqXUEi4Hf0aC0giUcAG/view?usp=sharing)
 
 [Видео с обзором работы приложения](https://youtu.be/SjRRVLN4a6g?si=LkR0UkdOJcD6YEIN)
