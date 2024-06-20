@@ -1,4 +1,6 @@
-# Приложение "Recipes"
+<img src="https://github.com/NinelNina/recipes_mobile/blob/connect_backend/assets/icon/icon.png" width="250" height="250">
+
+# Мобильное приложение "Recipes"
 ## TP-6.2
 ### Ссылки на репозитории:
 * [Мобильное приложение](https://github.com/NinelNina/recipes_mobile)
