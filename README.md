@@ -71,6 +71,8 @@ Recipes – это мобильное приложение, которое пр�
 [Figma](https://www.figma.com/file/UaMh6pD49SvYcP4G83df0Y/My-Recipe-App?type=design&node-id=0-1&mode=design)
 
 ## Документация
+[Swagger](http://92.255.76.152:8080/swagger-ui/index.html#/)
+
 [Курсовой проект](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/CourseProject/Course_project.pdf)
 
 [Презентация на предзащиту](https://github.com/Novia2003/RecipeProject/blob/main/Documentation/Pre-defense/Recipes.pdf)
